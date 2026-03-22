@@ -39,7 +39,9 @@ streamlit run dashboard/app.py
 ## Project Structure
 
 resume_screening_ai
+
 │
+
 ├── data
 
 ├── src
