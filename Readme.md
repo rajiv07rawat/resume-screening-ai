@@ -41,10 +41,15 @@ streamlit run dashboard/app.py
 resume_screening_ai
 │
 ├── data
+
 ├── src
+
 ├── dashboard
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 
